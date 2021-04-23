@@ -1,6 +1,6 @@
-## Laplacian pyramid blending
+## Laplacian Pyramid Blending
 This is a Python implementation of Laplacian pyramid blending.
-## required libraries
+## Required Libraries
 from skimage.io import imread  
 from skimage.transform import rotate  
 from numba import jit # conversion to machine code  
