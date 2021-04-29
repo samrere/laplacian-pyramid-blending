@@ -3,7 +3,7 @@ This is a Python implementation of Laplacian pyramid blending.
 ## Required Libraries
 from skimage.io import imread  
 from skimage.transform import rotate  
-from numba import jit # conversion to machine code  
+from numba import jit  
 import numpy as np  
 import matplotlib.pyplot as plt
 ## Results
