@@ -8,6 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 ## Results
 *blending an apple with an orange*  
+
 apple             |  orange
 :-------------------------:|:-------------------------:
 ![](https://github.com/Sam-gege/laplacian-pyramid-blending-from-scratch/blob/main/images/apple.png)  |  ![](https://github.com/Sam-gege/laplacian-pyramid-blending-from-scratch/blob/main/images/orange.png)  
